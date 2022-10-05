@@ -1,0 +1,71 @@
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Database.mdf
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Database_log.ldf
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.dll.config
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\dbup-core.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\dbup-sqlserver.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CopyComplete
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
+C:\MyCode\KnowlageBase\Modules\Solid\src\Solid\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.exe
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Database.mdf
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Database_log.ldf
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.dll.config
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.deps.json
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Solid.pdb
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\dbup-core.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\dbup-sqlserver.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.csprojAssemblyReference.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.csproj.CopyComplete
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.pdb
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\1. Solid - Start\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache
