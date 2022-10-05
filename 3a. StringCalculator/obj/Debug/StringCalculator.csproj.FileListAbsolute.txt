@@ -1,0 +1,7 @@
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\bin\Debug\StringCalculator.dll
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\bin\Debug\nunit.framework.dll
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\bin\Debug\nunit.framework.xml
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\obj\Debug\StringCalculator.dll
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\obj\Debug\StringCalculator.pdb
+C:\MyCode\Szkolenia\DesignPatterns\src - SOLID - Refactoring\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
