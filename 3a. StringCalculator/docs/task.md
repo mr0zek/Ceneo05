@@ -1,41 +1,41 @@
-# Kata String Calculator
+ï»¿# Kata String Calculator
 
 ## Zasady
-Kierowca (osoba przy klawiaturze) pisze test (który nie przechodzi).
-Pilot sprawdza czytelnoœæ, sensownoœæ, korzystanie z dobrych praktyk. 
-Osoby zamieniaj¹ siê rolami.
-Kierowca pisze implementacje testów nieprzechodz¹cych i nastêpne testy
-…. I tak dalej ?
+Kierowca (osoba przy klawiaturze) pisze test (ktÃ³ry nie przechodzi).
+Pilot sprawdza czytelnoÅ›Ä‡, sensownoÅ›Ä‡, korzystanie z dobrych praktyk. 
+Osoby zamieniajÄ… siÄ™ rolami.
+Kierowca pisze implementacje testÃ³w nieprzechodzÄ…cych i nastÄ™pne testy
+â€¦. I tak dalej ?
 
 
 ## Wymagania:
-1. Utwórz klasê StringCalculator z jedn¹ metod¹ int Add(string numbers)
-- Metoda mo¿e przyjmowaæ 0, 1 lub 2 numery i zwraca ich sumê (dla pustego ³añcucha zwróci 0) np.: “” lub “1” lub “1,2”
-- Rozpocznij z najprostszym przypadkiem – pusty ³añcuch. Nastêpnie zaimplementuj dla jednego I dwóch numerów
-- Pamiêtaj aby u¿ywaæ najprostszych rozwi¹zañ w taki sposób by pisaæ testy o których wczeœniej nie myœla³eœ
-- Pamiêtaj o refaktoringu po ka¿dym przechodz¹cym teœcie
+1. UtwÃ³rz klasÄ™ StringCalculator z jednÄ… metodÄ… int Add(string numbers)
+- Metoda moÅ¼e przyjmowaÄ‡ 0, 1 lub 2 numery i zwraca ich sumÄ™ (dla pustego Å‚aÅ„cucha zwrÃ³ci 0) np.: â€œâ€ lub â€œ1â€ lub â€œ1,2â€
+- Rozpocznij z najprostszym przypadkiem â€“ pusty Å‚aÅ„cuch. NastÄ™pnie zaimplementuj dla jednego I dwÃ³ch numerÃ³w
+- PamiÄ™taj aby uÅ¼ywaÄ‡ najprostszych rozwiÄ…zaÅ„ w taki sposÃ³b by pisaÄ‡ testy o ktÃ³rych wczeÅ›niej nie myÅ›laÅ‚eÅ›
+- PamiÄ™taj o refaktoringu po kaÅ¼dym przechodzÄ…cym teÅ›cie
 
-2. Metoda Add mo¿e przyjmowaæ nieokreœlon¹ iloœæ numerów np.”1,2,3,4,5,6”
+2. Metoda Add moÅ¼e przyjmowaÄ‡ nieokreÅ›lonÄ… iloÅ›Ä‡ numerÃ³w np.â€1,2,3,4,5,6â€
 
-3. Metoda Add mo¿e przyjmowaæ znaki koñca linii pomiêdzy numerami (zamiast przecinków).
-- Poni¿szy ³añcuch jest poprawny:  “1\n2,3”  (wynik - 6)
-- Poni¿szy ³añcuch nie jest poprawny:  “1,\n” 
+3. Metoda Add moÅ¼e przyjmowaÄ‡ znaki koÅ„ca linii pomiÄ™dzy numerami (zamiast przecinkÃ³w).
+- PoniÅ¼szy Å‚aÅ„cuch jest poprawny:  â€œ1\n2,3â€  (wynik - 6)
+- PoniÅ¼szy Å‚aÅ„cuch nie jest poprawny:  â€œ1,\nâ€ 
 
-4. Wsparcie dla ró¿nego rodzaju znaków podzia³u
-- ¯eby zmieniæ znak podzia³u, pocz¹tek linii musi siê zaczynaæ : “//[delimiter]\n[numbers…]” 
-np.:  “//;\n1;2” powinno zwróciæ 3 i ustawiæ znak podzia³u na ‘;’ .
+4. Wsparcie dla rÃ³Å¼nego rodzaju znakÃ³w podziaÅ‚u
+- Å»eby zmieniÄ‡ znak podziaÅ‚u, poczÄ…tek linii musi siÄ™ zaczynaÄ‡ : â€œ//[delimiter]\n[numbersâ€¦]â€ 
+np.:  â€œ//;\n1;2â€ powinno zwrÃ³ciÄ‡ 3 i ustawiÄ‡ znak podziaÅ‚u na â€˜;â€™ .
 - Pierwsza linia jest opcjonalna 
 
-5. Je¿eli numer jest licz¹ ujemn¹ to powinien byæ rzucony wyj¹tek o treœci “Liczny ujemny niedozwolone”. 
-Opis powinien zawieraæ liczbê która spowodowa³a b³¹d. Je¿eli by³o wiêcej liczb ujemnych to wszystkie powinny siê znaleŸæ w opisie
+5. JeÅ¼eli numer jest liczÄ… ujemnÄ… to powinien byÄ‡ rzucony wyjÄ…tek o treÅ›ci â€œLiczny ujemny niedozwoloneâ€. 
+Opis powinien zawieraÄ‡ liczbÄ™ ktÃ³ra spowodowaÅ‚a bÅ‚Ä…d. JeÅ¼eli byÅ‚o wiÄ™cej liczb ujemnych to wszystkie powinny siÄ™ znaleÅºÄ‡ w opisie
 
-6. Liczby wiêksze ni¿  1000 powinny byæ ignorowane np.: 2 + 1001  = 2
+6. Liczby wiÄ™ksze niÅ¼  1000 powinny byÄ‡ ignorowane np.: 2 + 1001  = 2
 
-7.	Znaki podzia³u mog¹ byæ dowolnej d³ugoœci ale zgodne z formatem :  “//[delimiter]\n” np.: np.: “//[***]\n1***2***3” powinien zwróciæ 6
+7.	Znaki podziaÅ‚u mogÄ… byÄ‡ dowolnej dÅ‚ugoÅ›ci ale zgodne z formatem :  â€œ//[delimiter]\nâ€ np.: np.: â€œ//[***]\n1***2***3â€ powinien zwrÃ³ciÄ‡ 6
 
-8.	Dodaj wiele znaków podzia³u zgodnie z formatem :  “//[delim1][delim2]\n” 
-np.: “//[*][%]\n1*2%3” powinien zwróciæ 6.
+8.	Dodaj wiele znakÃ³w podziaÅ‚u zgodnie z formatem :  â€œ//[delim1][delim2]\nâ€ 
+np.: â€œ//[*][%]\n1*2%3â€ powinien zwrÃ³ciÄ‡ 6.
 
-9.	Upewnij siê ¿e mo¿na podaæ wiele znaków podzia³u ka¿dy d³u¿szy ni¿ jeden znak
+9.	Upewnij siÄ™ Å¼e moÅ¼na podaÄ‡ wiele znakÃ³w podziaÅ‚u kaÅ¼dy dÅ‚uÅ¼szy niÅ¼ jeden znak
 
 
