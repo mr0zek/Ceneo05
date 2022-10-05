@@ -1,0 +1,9 @@
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.deps.json
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csprojAssemblyReference.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfoInputs.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfo.cs
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.CoreCompileInputs.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.pdb

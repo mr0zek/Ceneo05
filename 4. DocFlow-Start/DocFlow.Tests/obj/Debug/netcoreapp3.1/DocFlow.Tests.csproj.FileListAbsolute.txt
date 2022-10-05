@@ -1,0 +1,4 @@
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.csprojAssemblyReference.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.AssemblyInfoInputs.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.AssemblyInfo.cs
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.csproj.CoreCompileInputs.cache

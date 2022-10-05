@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\1b. Solid - Complete\\Solid.csproj": {}
+    "c:\\My\\Trainings\\Ceneo05\\1b. Solid - Complete\\Solid.csproj": {}
   },
   "projects": {
-    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\1b. Solid - Complete\\Solid.csproj": {
+    "c:\\My\\Trainings\\Ceneo05\\1b. Solid - Complete\\Solid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\1b. Solid - Complete\\Solid.csproj",
+        "projectUniqueName": "c:\\My\\Trainings\\Ceneo05\\1b. Solid - Complete\\Solid.csproj",
         "projectName": "Solid",
-        "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\1b. Solid - Complete\\Solid.csproj",
-        "packagesPath": "C:\\Users\\mr0zek\\.nuget\\packages\\",
-        "outputPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\1b. Solid - Complete\\obj\\",
+        "projectPath": "c:\\My\\Trainings\\Ceneo05\\1b. Solid - Complete\\Solid.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "c:\\My\\Trainings\\Ceneo05\\1b. Solid - Complete\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mr0zek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,12 +63,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.23, 3.1.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

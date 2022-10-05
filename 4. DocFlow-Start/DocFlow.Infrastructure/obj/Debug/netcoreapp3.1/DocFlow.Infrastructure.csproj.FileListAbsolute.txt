@@ -1,0 +1,12 @@
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.deps.json
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.dll
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.pdb
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csprojAssemblyReference.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.AssemblyInfoInputs.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.AssemblyInfo.cs
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csproj.CoreCompileInputs.cache
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csproj.CopyComplete
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.dll
+c:\MyCode\Cwiczenia\Ceneo\4. DocFlow-Start\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.pdb
