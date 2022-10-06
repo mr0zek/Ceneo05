@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKD2mRYqYpKe+XZJ7TRm2YoAqOgLxMcspdK0wAWr2tpoamkYRK49xMR4wZhOBJK3QRu/HDJ3TQh/faA+QzfWjg==",
+  "dgSpecHash": "zvOzNYJYAufd9aG+A80xVqBsrybrJhmVIPF8efVh5mymoKsdVL6Hx9tFAdOQ8OMMSUKVXS8YoQBmLovN0pj2Bw==",
   "success": true,
-  "projectFilePath": "c:\\My\\Trainings\\Ceneo05\\4. Hexagon - Start\\Hexagon.Web\\Hexagon.Web.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\My\\Trainings\\Ceneo05\\4. Hexagon - Start\\Hexagon.Web\\Hexagon.INfr.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r3n8NwRDKsBXsSoelPxkI9AbGYHy6bpvD0KtM1df1yFmp/REVjmhyWHnb6UxV0mLmzUklMBDHiReYNcVTSlLVA==",
+  "dgSpecHash": "ES912Bh4V4izDzHlPWo44E2dNhLTXikRzGG5DRFQ8bYI+QSEufshTkcKkMwspANBz/sZqUCjv0Fmo+YYSG2pZA==",
   "success": true,
   "projectFilePath": "c:\\My\\Trainings\\Ceneo05\\4. Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
