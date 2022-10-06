@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsbzvWyGp3cFoI3XvIjNF4L0aK51JlcI6ql1DSZXdzwobFA9S1fVU6JJzJtUaoQaI+GgARqY7s6YeswLerJIaA==",
+  "success": true,
+  "projectFilePath": "c:\\My\\Trainings\\Ceneo05\\4b. DocFlow-Start\\DocFlow.Application\\DocFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
