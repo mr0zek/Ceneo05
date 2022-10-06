@@ -17,3 +17,10 @@ c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.dll
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.pdb
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.genruntimeconfig.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.csproj.AssemblyReference.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.AssemblyInfoInputs.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.AssemblyInfo.cs
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.csproj.CoreCompileInputs.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.dll
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Tests\obj\Debug\netcoreapp3.1\DocFlow.Tests.pdb

@@ -10,3 +10,16 @@ c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Infrastructure\o
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csproj.CopyComplete
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.dll
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.pdb
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.deps.json
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.dll
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.pdb
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\bin\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csproj.AssemblyReference.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.AssemblyInfoInputs.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.AssemblyInfo.cs
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csproj.CoreCompileInputs.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.csproj.CopyComplete
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.dll
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Infrastructure\obj\Debug\netcoreapp3.1\DocFlow.Infrastructure.pdb

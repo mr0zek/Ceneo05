@@ -10,7 +10,7 @@ namespace DocFlow.Infrastructure.Repo
   {
     private static DocumentType DOCUMENT_TYPE = DocumentType.PROCEDURE;
 
-    private FlowProcess flowProcess = new FlowProcess(new CostCalculatorFactory(new ConfigurationData()),new DocumentFactory(null,null));
+    private FlowProcess flowProcess = new FlowProcess(new CostCalculatorFactory(new ConfigurationData()),new DocumentFactory(null));
 
     [Fact]
     public void StandardProcess()

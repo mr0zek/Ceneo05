@@ -5,9 +5,9 @@ using System;
 
 namespace DocFlow.Domain.Documents
 {
-  public class Document
+  internal class Document
   {
-    DocumentNumber Number { get; private set; }
+    public DocumentNumber Number { get; private set; }
 
     public DocumentStatus Status { get; private set; }
 

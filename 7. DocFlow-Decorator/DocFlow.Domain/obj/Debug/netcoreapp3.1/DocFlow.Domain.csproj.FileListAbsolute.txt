@@ -1,0 +1,9 @@
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.deps.json
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.dll
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csprojAssemblyReference.cache
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfoInputs.cache
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfo.cs
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.CoreCompileInputs.cache
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.dll
+C:\MyCode\Cwiczenia\Motorola\DocFlow\DocFlow-Decorator\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.pdb

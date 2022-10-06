@@ -11,7 +11,7 @@ namespace DocFlow.Infrastructure.Repo
 
     public Document Build()
     {
-      return new Document(type, author, new DocumentNumber("1"));
+      return new Document(type, author, new DocumentNumber("1"), DocumentStatus.DRAFT, DateTime.Now);
     }
 
     public DocumentAssembler Published()

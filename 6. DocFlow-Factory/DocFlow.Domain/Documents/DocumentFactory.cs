@@ -7,7 +7,7 @@ namespace DocFlow.Domain.Documents
 {
   public class DocumentFactory : IDocumentFactory
   {
-    INumberGeneratorFactory _numberGeneratorFactory;
+    readonly INumberGeneratorFactory _numberGeneratorFactory;
 
     public DocumentFactory(INumberGeneratorFactory numberGeneratorFactory)
     {
@@ -22,8 +22,5 @@ namespace DocFlow.Domain.Documents
     }
   }
 
-  public interface IConigurationData
-  {
-    IConfigurationData GetConfiguration();
-  }
+  
 }

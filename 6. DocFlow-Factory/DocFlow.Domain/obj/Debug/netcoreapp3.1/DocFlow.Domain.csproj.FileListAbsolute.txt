@@ -7,3 +7,13 @@ c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Domain\obj\Debug
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.CoreCompileInputs.cache
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.dll
 c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.deps.json
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\bin\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.AssemblyReference.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfoInputs.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfo.cs
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.CoreCompileInputs.cache
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\My\Trainings\Ceneo05\6. DocFlow-Factory\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.pdb

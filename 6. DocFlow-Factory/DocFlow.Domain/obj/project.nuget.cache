@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ik2J5WeCMhDPLTkRhv5zweytbj0+sFtFNouaTLPRue7uwI27oolR0gldwmCA+dRKRBPFjcioQGuD/8jxSfHMUw==",
+  "dgSpecHash": "X7/NjX43xD/cYOk9ZYPqmFwP8DVQui/bhWcvpexloKuITaUfpkCexbKGW1KfNRF2hubUzPZQVjyy88QlOrrfWA==",
   "success": true,
-  "projectFilePath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\My\\Trainings\\Ceneo05\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\szymek\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
