@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj": {}
+  },
+  "projects": {
+    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj",
+        "projectName": "DocFlow.Application",
+        "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              },
+              "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
+                "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "projectName": "DocFlow.Domain",
+        "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+        "projectName": "DocFlow.Infrastructure",
+        "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
