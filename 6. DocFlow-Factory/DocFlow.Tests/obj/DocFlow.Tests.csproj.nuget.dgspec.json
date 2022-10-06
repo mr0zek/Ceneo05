@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Tests\\DocFlow.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Application\\DocFlow.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Application\\DocFlow.Application.csproj",
+        "projectName": "DocFlow.Application",
+        "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Application\\DocFlow.Application.csproj",
+        "packagesPath": "C:\\Users\\mr0zek\\.nuget\\packages\\",
+        "outputPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mr0zek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              },
+              "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
+                "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "projectName": "DocFlow.Domain",
+        "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "packagesPath": "C:\\Users\\mr0zek\\.nuget\\packages\\",
+        "outputPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mr0zek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+        "projectName": "DocFlow.Infrastructure",
+        "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mr0zek\\.nuget\\packages\\",
+        "outputPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mr0zek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Tests\\DocFlow.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Tests\\DocFlow.Tests.csproj",
+        "projectName": "DocFlow.Tests",
+        "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Tests\\DocFlow.Tests.csproj",
+        "packagesPath": "C:\\Users\\mr0zek\\.nuget\\packages\\",
+        "outputPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mr0zek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Application\\DocFlow.Application.csproj": {
+                "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Application\\DocFlow.Application.csproj"
+              },
+              "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\6. DocFlow-Factory\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

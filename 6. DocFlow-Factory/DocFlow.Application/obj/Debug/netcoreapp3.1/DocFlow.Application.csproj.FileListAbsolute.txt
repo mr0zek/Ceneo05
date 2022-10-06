@@ -1,0 +1,14 @@
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Application.deps.json
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Application.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Application.pdb
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Domain.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Domain.pdb
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\bin\Debug\netcoreapp3.1\DocFlow.Infrastructure.pdb
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.csprojAssemblyReference.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.AssemblyInfoInputs.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.AssemblyInfo.cs
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.csproj.CoreCompileInputs.cache
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.csproj.CopyComplete
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.dll
+c:\MyCode\Cwiczenia\Ceneo-2022-01-19\6. DocFlow-Factory\DocFlow.Application\obj\Debug\netcoreapp3.1\DocFlow.Application.pdb
