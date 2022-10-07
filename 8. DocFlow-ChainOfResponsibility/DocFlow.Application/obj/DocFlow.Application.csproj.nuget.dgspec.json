@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj": {}
+    "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj": {}
   },
   "projects": {
-    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj": {
+    "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj",
+        "projectUniqueName": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj",
         "projectName": "DocFlow.Application",
-        "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj",
+        "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\DocFlow.Application.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\obj\\",
+        "outputPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
-                "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj"
               },
-              "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
-                "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj"
+              "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
+                "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+    "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "projectUniqueName": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
         "projectName": "DocFlow.Domain",
-        "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
+        "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\obj\\",
+        "outputPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
+    "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+        "projectUniqueName": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
         "projectName": "DocFlow.Infrastructure",
-        "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
+        "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\DocFlow.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\obj\\",
+        "outputPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
-                "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj"
+              "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj": {
+                "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj"
               }
             }
           }

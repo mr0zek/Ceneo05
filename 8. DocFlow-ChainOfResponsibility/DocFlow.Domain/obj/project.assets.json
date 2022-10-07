@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
+      "projectUniqueName": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
       "projectName": "DocFlow.Domain",
-      "projectPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
+      "projectPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\DocFlow.Domain.csproj",
       "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-      "outputPath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\obj\\",
+      "outputPath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",

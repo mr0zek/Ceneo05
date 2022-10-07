@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4rZdTwVHX8lMIhW6AfOCmw/iiYswaqErJcHHc/pFFTHBMgmTuNvJ0uiTYgMgNgywsROl65AM+uyobNvt5X4MQ==",
+  "dgSpecHash": "EIMyawxZ5TvqjKq6X1HXMkmTszYPEv4ujztBa5keyizzdQ4+eyvsSo6stYm/9QlY0libpodNEB/7J89rMqa75Q==",
   "success": true,
-  "projectFilePath": "c:\\My\\Trainings\\Ćwiczdenia\\8. DocFlow-ChainOfResponsibility\\DocFlow.Tests\\DocFlow.Tests.csproj",
+  "projectFilePath": "c:\\My\\Trainings\\Ceneo05\\8. DocFlow-ChainOfResponsibility\\DocFlow.Tests\\DocFlow.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
