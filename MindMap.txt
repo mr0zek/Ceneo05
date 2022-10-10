@@ -1,0 +1,85 @@
+Wzorce i testowanie
+	Testy
+		TDD
+			KATA
+		Mock vs Stub
+		Piramida
+		Ekplozja kombinatoryczna
+		Builder - Arrange
+			ObjectMother - wady
+		AssertObject - Assert
+		BDD
+			NIe zmusisz biznesu
+			Bddfy
+			SpecFlow
+			Gherkin
+				Given
+				When
+				Then
+	SOLID
+		DI
+			AOP
+				IL Weaving
+					PostSharp
+					Fody
+				Framework
+				Interception
+					Kontenery IOC
+					RealProxy / DispatchProxy
+				Dotyczą technicznego kodu
+			Monady
+			Dependecy Injection
+				Constructor
+				Field
+				Method
+			Events
+		OpenClosed
+		Liskov
+			Przykady
+				ReadOnlyList
+				PersistentSet
+				Faktury
+		Interface Seggregation
+		Single Responsibility
+	Kiss
+		Esencjonalna
+		Przypadkowa
+	Yagni
+	Dry
+	CQRS & CQS
+		Command
+			Timeout
+		Query
+		Lvl 0
+			Jedna baza danych
+			Synchroniczne odwolania
+		lvl1
+			Zmaterializowane widoki
+			synchronicznie
+		lvl2
+			2 bazy 
+				Read model
+				Write model
+			zailanie asynchroniczne RM
+		lvl3
+			2 Bazy
+				Read MOdel
+				Write Model jako EventStore
+					EventSourcing
+		Base vs ACID
+	Wzorce
+		Strategia
+			Wiele implementacji 
+			Wspólny interfejs
+		Fabryka
+		Dekorator
+		Singleton
+		ServiceLocator
+		Composite
+			UI Framework
+			XML / JSON
+		Chain of Responsibility
+			Validation
+		Hexagon
+			Oddzielenie logiki domenowej od aplikacyjnej i infrastruktury
+		Adapter

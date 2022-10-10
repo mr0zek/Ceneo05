@@ -1,0 +1,5 @@
+C:\My\Trainings\Ćwiczdenia\DocFlow\DocFlow-Complete\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.AssemblyReference.cache
+C:\My\Trainings\Ćwiczdenia\DocFlow\DocFlow-Complete\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Ćwiczdenia\DocFlow\DocFlow-Complete\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfoInputs.cache
+C:\My\Trainings\Ćwiczdenia\DocFlow\DocFlow-Complete\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.AssemblyInfo.cs
+C:\My\Trainings\Ćwiczdenia\DocFlow\DocFlow-Complete\DocFlow.Domain\obj\Debug\netcoreapp3.1\DocFlow.Domain.csproj.CoreCompileInputs.cache
